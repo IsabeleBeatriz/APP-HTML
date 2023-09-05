@@ -34,4 +34,4 @@ O Alimentador Automático Caseiro para Pets é um projeto inovador que visa simp
 
 ## Link Projeto
 
-Link do projeto usando github pages
+isabelebeatriz.github.io/APP-HTML/
